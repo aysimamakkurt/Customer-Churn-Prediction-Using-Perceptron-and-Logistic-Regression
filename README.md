@@ -12,11 +12,11 @@ Customer Status: A binary label indicating whether the customer has churned (1) 
 Sample Data
 Tenure in Months	Monthly Charge	Age	Customer Status
 
-9	65.6	37	0
+9    	65.6	    37    	0
 
-9	-4.0	46	0
+9	    -4.0	    46    	0
 
-4	73.9	50	1
+4	    73.9	    50	    1
 
 ...	...	...	...
 Prerequisites
