@@ -19,6 +19,8 @@ Tenure in Months	Monthly Charge	Age	Customer Status
 4	    73.9	    50	    1
 
 ...	...	...	...
+
+
 Prerequisites
 To run the project, ensure you have the following libraries installed:
 
